@@ -1,0 +1,11 @@
+/* color scheme midnight */
+:root{
+	/* background and dark colors */
+	--bg-1: hsl(220, 15%, 20%); /* dark buttons when clicked */
+	--bg-2: hsl(220, 15%, 16%); /* dark buttons */
+	--bg-3: hsl(220, 15%, 13%); /* spacing, secondary elements */
+	--bg-4: hsl(220, 15%, 10%); /* main background color */
+
+	/* white text */
+	--white-text: #ffff;
+} 
